@@ -1,0 +1,12 @@
+body {
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+}
+
+#music{
+    width:200px;
+    height: 100;
+}
